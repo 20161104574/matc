@@ -1,0 +1,3 @@
+﻿  macth.cpp
+c:\users\administrator\desktop\比赛评分\比赛评分\比赛评分\macth.cpp(127): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  比赛评分.vcxproj -> C:\Users\Administrator\Desktop\比赛评分\比赛评分\Debug\比赛评分.exe
